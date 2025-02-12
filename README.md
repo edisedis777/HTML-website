@@ -71,29 +71,16 @@ graph TD;
 
 ### Flowchart Items Description
 
-1. **Home (Eddie.Net Home)**
-   - The main landing page of the website, featuring links to various sections of Eddie's work and interests.
-
-2. **Books**
-   - A section dedicated to books written by Eddie or books that Eddie recommends.
-
-3. **Music**
-   - A section showcasing Eddie's music, including compositions, performances, and playlists.
-
-4. **Writings**
-   - A section containing Eddie's writings, such as articles, blog posts, essays, and other literary works.
-
-5. **Pictures**
-   - A gallery of pictures taken by Eddie, including personal photos, travel photos, and artistic photography.
-
-6. **Videos**
-   - A collection of videos featuring Eddie, including tutorials, vlogs, and other video content.
-
-7. **Links**
-   - A curated list of links to websites, resources, and other content that Eddie finds interesting or useful.
-
-8. **About**
-   - An "About" page providing more information about Eddie, his background, interests, and contact information.
+| Item | Description |
+| --- | --- |
+| Home | The main landing page of the website, featuring links to various sections of Eddie's work and interests. |
+| Books | A section dedicated to books that Eddie recommends. |
+| Music | A section showcasing Eddie's playlists. |
+| Writings | A section containing Eddie's writings. |
+| Pictures | A gallery of pictures taken by Eddie, including personal photos and photography. |
+| Videos | A collection of videos that Eddie recommends. |
+| Links | A curated list of links to websites, resources, and other content that Eddie finds interesting or useful. |
+| About | An "About" page providing more information about Eddie, his background, interests, and contact information.|
 
 
 ## Contributing
