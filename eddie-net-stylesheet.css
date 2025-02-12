@@ -1,0 +1,212 @@
+body {
+  font-family: Palatino, serif;
+  font-size: 1.2em;
+  line-height: 1.6;
+  color: #282525;
+}
+
+@media only screen and (max-width: 8000px) {
+  .main {
+    padding-left: max(100px, 5%);
+    padding-right: max(100px, 5%);
+    max-width: 700px;
+    margin: auto;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .main {
+    padding-left: max(10px, 3%);
+    padding-right: max(10px, 3%);
+    margin: auto;
+  }
+}
+
+body.photograph {
+  background-color: black;
+  margin-top: 45px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  text-decoration: none !important;
+  border: 0px !important;
+  outline: none;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  max-width: 1200px;
+}
+
+.center-small {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  max-width: 500px;
+}
+
+.jatsi_image {
+  align: right;
+}
+
+hr {
+  border: 1px solid gray;
+  margin-top: 15px;
+  margin-bottom: 25px;
+}
+
+a:link {
+  text-decoration: none;
+  color: rgb(40, 65, 148);
+}
+
+a:visited {
+  text-decoration: none;
+  color: rgb(40, 65, 148);
+}
+
+a:hover {
+  text-decoration: none !important;
+  color: rgb(58, 96, 222) !important;
+}
+
+a:active {
+  text-decoration: none;
+  color: rgb(58, 96, 222);
+}
+
+p {
+  margin: 0;
+}
+
+.jatsi_base_paragraph {
+  text-indent: 15px;
+}
+
+.jatsi_base_paragraph_no_indent_space_after {
+  text-indent: 0px;
+  margin-bottom: 25px;
+}
+
+.jatsi_summary {
+  text-indent: 12px;
+  font-size: 90%;
+}
+
+.jatsi_caption {
+  font-size: 100%;
+  text-align: left;
+}
+
+.jatsi_source {
+  font-size: 90%;
+  text-align: right;
+  padding-top: 1%;
+  padding-bottom: 3%;
+}
+
+.jatsi_image_source {
+  font-size: 90%;
+  text-align: left;
+  padding-top: none;
+  padding-bottom: 3%;
+}
+
+.jatsi_poem {
+  font-size: 100%;
+  margin-left: 18px !important;
+}
+
+.jatsi_textcenter {
+  font-size: 100%;
+  text-align: center;
+}
+
+.jatsi_footnote {
+  padding-left: 5px;
+  padding-right: 40px;
+  line-height: 1.3;
+  text-indent: -5px;
+  font-size: 90%;
+  text-align: left;
+  padding-bottom: 1%;
+}
+
+.jatsi_glossary_headword {
+  font-weight: bold;
+  font-size: 110%;
+  padding-top: 5%;
+  padding-bottom: 0%;
+}
+
+.jatsi_glossary_definition {
+  font-weight: normal;
+  font-size: 105%;
+  padding-top: 0%;
+  padding-bottom: 1%;
+}
+
+.jatsi_glossary_Japanese {
+  font-weight: normal;
+  font-size: 100%;
+  padding-top: 0%;
+  padding-bottom: 0%;
+}
+
+.jatsi_glossary_alternate {
+  font-family: sans-serif;
+  font-weight: normal;
+  font-size: 105%;
+  padding-top: 0%;
+  padding-bottom: 0%;
+}
+
+.jatsi_glossary_comment {
+  color: blue;
+  font-weight: normal;
+  font-size: 90%;
+  padding-top: 0%;
+  padding-bottom: 0%;
+}
+
+.jatsi_glossary_crossreference {
+  font-weight: bold;
+  font-size: 110%;
+  padding-top: 5%;
+  padding-bottom: 0%;
+}
+
+.jatsi_sources_year {
+  font-weight: bold;
+  color: rgb(85, 125, 50);
+  font-size: 150%;
+  padding-top: 3%;
+  padding-bottom: 0%;
+}
+
+.jatsi_sources_title {
+  font-weight: bold;
+  font-size: 110%;
+  padding-top: 3%;
+  padding-bottom: 0.5%;
+}
+
+.jatsi_sources_author {
+  font-weight: normal;
+  font-size: 100%;
+  padding-top: 0%;
+  padding-bottom: 0.3%;
+}
+
+.jatsi_sources_comment {
+  font-weight: normal;
+  font-size: 90%;
+  padding-top: 0%;
+  padding-bottom: 0.3%;
+}
