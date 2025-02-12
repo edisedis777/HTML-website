@@ -84,11 +84,14 @@ eddie-net-website/
 
 Here is a simple flow chart:
 
-mindmap
-    Website
-        A[index]
-        B(stylesheet)
-        C(portrait)
+%%{init: {"flowchart": {"htmlLabels": false}} }%%
+flowchart LR
+    markdown["`Website index_`"]
+    newLines["`books
+    music
+    writings`"]
+    markdown --> newLines
+
 
 
 
