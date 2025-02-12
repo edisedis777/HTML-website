@@ -82,6 +82,12 @@ eddie-net-website/
 - eddie-portrait.gif: The portrait image of Eddie.
 - `favicon.ico`: The favicon for the website.
 
+- graph LR
+    A[Square Rect] -- Link text --> B((Circle))
+    A --> C(Round Rect)
+    B --> D{Rhombus}
+    C --> D
+
 ## Design Decisions
 
 1. **HTML Structure**: The website uses a simple HTML structure with a header and links to different sections of Eddie's work.
