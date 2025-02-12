@@ -84,13 +84,14 @@ eddie-net-website/
 
 Here is a simple flow chart:
 
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
+mindmap
+    Website
+        A[index]
+        B(stylesheet)
+        C(portrait)
+
+
+
 
 ## Design Decisions
 
