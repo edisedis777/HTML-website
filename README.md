@@ -93,8 +93,7 @@ graph TD;
     Home --> Videos["Videos"];
     Home --> Links["Links"];
     Home --> About["About"];
-
-
+```
 
 ## Design Decisions
 
