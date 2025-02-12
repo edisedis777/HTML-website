@@ -1,4 +1,6 @@
-# Eddie.Net Website [eddie-0di.pages.dev](https://eddie-0di.pages.dev/)
+# Eddie.Net Website 
+
+[eddie-0di.pages.dev](https://eddie-0di.pages.dev/)
 
 
 This is the website of Eddie, an engineer, writer, teacher, and gardener living in Germany. 
