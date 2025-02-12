@@ -82,11 +82,15 @@ eddie-net-website/
 - eddie-portrait.gif: The portrait image of Eddie.
 - `favicon.ico`: The favicon for the website.
 
-- graph LR
-    A[Square Rect] -- Link text --> B((Circle))
-    A --> C(Round Rect)
-    B --> D{Rhombus}
-    C --> D
+Here is a simple flow chart:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
 
 ## Design Decisions
 
