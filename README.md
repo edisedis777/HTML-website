@@ -20,32 +20,6 @@ To get a local copy up and running, follow these simple steps:
 1. Clone the repository:  
    ```sh
    git clone https:/ /github.com/your-username/eddie-net-website.git
-
-2. Here is a Overview of the Website Structure:
-
-```markdown
-# Eddie.Net Website
-
-This is the website of Eddie, an engineer, writer, teacher, and gardener living in Germany.
-The website showcases various aspects of Eddie's life and work, including
-books, music, writings, pictures, videos, and links.
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Design Decisions](#design-decisions)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Installation
-
-To get a local copy up and running, follow these simple steps:
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/eddie-net-website.git
    ```
 2. Open the project in your preferred code editor.
 
@@ -75,34 +49,14 @@ eddie-net-website/
 └── README.md
 ```
 
-### Diagram of the Parts
+## Design Decisions
 
-1. **Home (Eddie.Net Home)**
-   - The main landing page of the website, featuring links to various sections of Eddie's work and interests.
+1. **HTML Structure**: The website uses a simple HTML structure with a header and links to different sections of Eddie's work.
+2. **CSS Styling**: The CSS file eddie-net-stylesheet.css is used to style the website, ensuring a consistent look and feel.
+3. **Responsive Design**: The website includes a viewport meta tag to ensure it is responsive and looks good on different devices.
+4. **Image Map**: An image map is used for the portrait image to create a clickable area that links to the "About" page.
 
-2. **Books**
-   - A section dedicated to books that Eddie recommends.
-
-3. **Music**
-   - A section showcasing Eddie's playlists.
-
-4. **Writings**
-   - A section containing Eddie's writings.
-
-5. **Pictures**
-   - A gallery of pictures taken by Eddie, including personal photos, travel photos, and photography.
-
-6. **Videos**
-   - A collection of videos.
-
-7. **Links**
-   - A curated list of links to websites, resources, and other content that Eddie finds interesting or useful.
-
-8. **About**
-   - An "About" page providing more information about Eddie, his background, interests, and contact information.
-
-
-Here is a simple flow chart:
+## Flowchart of the Website Structure
 
 ```mermaid
 graph TD;
@@ -115,12 +69,32 @@ graph TD;
     Home --> About["About"];
 ```
 
-## Design Decisions
+### Flowchart Items Description
 
-1. **HTML Structure**: The website uses a simple HTML structure with a header and links to different sections of Eddie's work.
-2. **CSS Styling**: The CSS file eddie-net-stylesheet.css is used to style the website, ensuring a consistent look and feel.
-3. **Responsive Design**: The website includes a viewport meta tag to ensure it is responsive and looks good on different devices.
-4. **Image Map**: An image map is used for the portrait image to create a clickable area that links to the "About" page.
+1. **Home (Eddie.Net Home)**
+   - The main landing page of the website, featuring links to various sections of Eddie's work and interests.
+
+2. **Books**
+   - A section dedicated to books written by Eddie or books that Eddie recommends.
+
+3. **Music**
+   - A section showcasing Eddie's music, including compositions, performances, and playlists.
+
+4. **Writings**
+   - A section containing Eddie's writings, such as articles, blog posts, essays, and other literary works.
+
+5. **Pictures**
+   - A gallery of pictures taken by Eddie, including personal photos, travel photos, and artistic photography.
+
+6. **Videos**
+   - A collection of videos featuring Eddie, including tutorials, vlogs, and other video content.
+
+7. **Links**
+   - A curated list of links to websites, resources, and other content that Eddie finds interesting or useful.
+
+8. **About**
+   - An "About" page providing more information about Eddie, his background, interests, and contact information.
+
 
 ## Contributing
 
