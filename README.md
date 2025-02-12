@@ -20,7 +20,7 @@ To get a local copy up and running, follow these simple steps:
    ```sh
    git clone https:/ /github.com/your-username/eddie-net-website.git
 
-2. Here is a `README.md` file for your project:
+2. Here is a Overview of the Website Structure:
 
 ```markdown
 # Eddie.Net Website
@@ -55,10 +55,20 @@ Open the `index.html` file in your web browser to view the website.
 ```plaintext
 eddie-net-website/
 ├── images/
-│   └── eddie-portrait.gif
+│  ├── mailaddress.jpg
+|  ├── favicon.ico
+|  └── eddie-portrait.gif
+    ├── index.html
 ├── eddie-net-stylesheet.css
-├── favicon.ico
+├── about.html
+├── about-cv.html
+├── books.html
 ├── index.html
+├── links.html
+├── music.html
+├── pictures.html
+├── videos.html
+├── writings.html
 └── README.md
 ```
 
