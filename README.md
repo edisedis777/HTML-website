@@ -77,10 +77,30 @@ eddie-net-website/
 
 ### Diagram of the Parts
 
-- index.html: The main HTML file that contains the structure of the website.
-- eddie-net-stylesheet.css: The CSS file that styles the website.
-- eddie-portrait.gif: The portrait image of Eddie.
-- `favicon.ico`: The favicon for the website.
+1. **Home (Eddie.Net Home)**
+   - The main landing page of the website, featuring links to various sections of Eddie's work and interests.
+
+2. **Books**
+   - A section dedicated to books that Eddie recommends.
+
+3. **Music**
+   - A section showcasing Eddie's playlists.
+
+4. **Writings**
+   - A section containing Eddie's writings.
+
+5. **Pictures**
+   - A gallery of pictures taken by Eddie, including personal photos, travel photos, and photography.
+
+6. **Videos**
+   - A collection of videos.
+
+7. **Links**
+   - A curated list of links to websites, resources, and other content that Eddie finds interesting or useful.
+
+8. **About**
+   - An "About" page providing more information about Eddie, his background, interests, and contact information.
+
 
 Here is a simple flow chart:
 
