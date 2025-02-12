@@ -1,7 +1,8 @@
 # Eddie.Net Website
 
 This is the website of Eddie, an engineer, writer, teacher, and gardener living in Germany. 
-The website showcases various aspects of Eddie's life and work, including books, music, writings, pictures, videos, and links.
+The website showcases various aspects of Eddie's life and work, including 
+books, music, writings, pictures, videos, and links.
 
 ## Table of Contents
 
@@ -26,7 +27,8 @@ To get a local copy up and running, follow these simple steps:
 # Eddie.Net Website
 
 This is the website of Eddie, an engineer, writer, teacher, and gardener living in Germany.
-The website showcases various aspects of Eddie's life and work, including books, music, writings, pictures, videos, and links.
+The website showcases various aspects of Eddie's life and work, including
+books, music, writings, pictures, videos, and links.
 
 ## Table of Contents
 
