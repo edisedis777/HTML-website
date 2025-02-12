@@ -25,7 +25,8 @@ To get a local copy up and running, follow these simple steps:
 ```markdown
 # Eddie.Net Website
 
-This is the website of Eddie, an engineer, writer, teacher, and gardener living in Germany. The website showcases various aspects of Eddie's life and work, including books, music, writings, pictures, videos, and links.
+This is the website of Eddie, an engineer, writer, teacher, and gardener living in Germany.
+The website showcases various aspects of Eddie's life and work, including books, music, writings, pictures, videos, and links.
 
 ## Table of Contents
 
