@@ -84,15 +84,15 @@ eddie-net-website/
 
 Here is a simple flow chart:
 
-%%{init: {"flowchart": {"htmlLabels": false}} }%%
-flowchart LR
-    markdown["`Website index_`"]
-    newLines["`books
-    music
-    writings`"]
-    markdown --> newLines
-
-
+```mermaid
+graph TD;
+    Home["Eddie.Net Home"] --> Books["Books"];
+    Home --> Music["Music"];
+    Home --> Writings["Writings"];
+    Home --> Pictures["Pictures"];
+    Home --> Videos["Videos"];
+    Home --> Links["Links"];
+    Home --> About["About"];
 
 
 
