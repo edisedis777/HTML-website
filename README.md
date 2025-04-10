@@ -3,7 +3,7 @@
 ## [eddie-0di.pages.dev](https://eddie-0di.pages.dev/)
 
 
-This is the website of Eddie, an engineer, writer, teacher, and gardener living in Germany. 
+This is the website of Eddie.
 The website showcases various aspects of Eddie's life and work, including 
 books, music, writings, pictures, videos, and links.
 
